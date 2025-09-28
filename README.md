@@ -2,6 +2,8 @@
 A collection of beginner-friendly Python projects to practice programming fundamentals.
 
 # Project 1: Hello World + User Input Form
+## Code
+```python
 
 This is the very first beginner project in Python.
 It covers two fundamentals:
@@ -23,8 +25,12 @@ Hello, World!
 What is your name? Tanzeel
 How old are you? 20
 Nice to meet you, Tanzeel! You are 20 years old.
+## Code
+```
 
-# 🧮 Project 2: Simple Python Calculator  
+# 🧮 Project 2: Simple Python Calculator 
+## Code
+```python
 
 Welcome to **Project 2** of my **Python Beginner Projects Series**! 🚀  
 In this project, we build a **Simple Calculator** that performs the four most common arithmetic operations.  
