@@ -232,6 +232,78 @@ Feel free to fork the repo and submit a pull request!
 
 Understand how to use Python’s random module
 
+📋 Project 5: To-Do List Application
+📖 Introduction
+
+This project is a To-Do List Application built using Python.
+It allows users to add, view, update, and delete tasks in a simple and interactive way.
+It’s a beginner-friendly project that teaches important concepts like:
+
+Lists
+
+Loops
+
+Functions
+
+Conditions
+
+Error Handling
+
+✨ Features
+
+✔️ Add new tasks
+✔️ View all tasks with numbering
+✔️ Update existing tasks
+✔️ Delete tasks by number
+✔️ Handles invalid inputs gracefully
+✔️ User-friendly console interface
+
+🛠️ Technologies Used
+
+Python 3.x
+
+📂 Project Structure
+Beginner Projects/
+│
+├── project5.py     # Main Python script
+└── README.md       # Project documentation
+
+📷 Example Output
+===== 📋 TO-DO LIST MENU =====
+1️⃣  Add Task
+2️⃣  View Tasks
+3️⃣  Update Task
+4️⃣  Delete Task
+5️⃣  Exit
+=============================
+
+👉 Enter your choice (1-5): 1
+✍️ Enter your new task: Buy groceries
+✅ Task 'Buy groceries' added successfully!
+
+🎯 Learning Outcomes
+
+By building this project, you will learn:
+
+How to store data in lists
+
+How to use functions for modular programming
+
+How to implement loops and conditions
+
+How to handle user errors with try-except
+
+📌 Future Enhancements
+
+🔹 Save tasks permanently in a text file
+🔹 Add task deadlines
+🔹 Mark tasks as completed
+🔹 Create a GUI version using Tkinter
+
+🤝 Contribution
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
 Learn if-elif-else conditions in a real-world example
 
 Practice handling user input effectively
